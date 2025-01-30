@@ -50,6 +50,8 @@ Trabalho de conclusão do curso da DIO CAIXA - IA Generativa com Microsoft Copil
 - Microsoft Designer Para gerar a capa
 - Edição realizada no Clipchamp
 
+## Publicado em
+- [Youtube] (https://youtube.com/shorts/GnJpdkCxfF0?si=15ywSVdXeKoq5CAo)
 
 <br/><br/>
 <p>
