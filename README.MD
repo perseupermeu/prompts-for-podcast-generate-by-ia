@@ -37,17 +37,18 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
+- [DeepSeek](https://chat.deepseek.com/) 
+- [Microsoft Designer](https://designer.microsoft.com/)
+- [Clipchamp](https://app.clipchamp.com/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Roteiro gerado via deepseek
+- Audio gerado pelo Clipchamp
+- Texto para fala gerado pelo Clipchamp , voz do Nicolau
+- Microsoft Designer Para gerar a capa
+- Edição realizada no Clipchamp
 
 ## 📚 Materiais
 
