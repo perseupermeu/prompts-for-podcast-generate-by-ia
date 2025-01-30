@@ -29,7 +29,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ 
 
 Trabalho de conclusão do curso da DIO CAIXA - IA Generativa com Microsoft Copilot
 
