@@ -56,4 +56,4 @@ Trabalho de conclusão do curso da DIO CAIXA - IA Generativa com Microsoft Copil
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ por [Marcio Camara](https://github.com/perseupermeu)
